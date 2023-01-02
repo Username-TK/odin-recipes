@@ -1,0 +1,24 @@
+/* styles css */
+
+* {
+    background-color:lightgray;
+}
+
+h1 {
+ color: black;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.paragraph {
+    column-width: 200px;
+}
+
+.body-text {
+    color:darkgray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.poster {
+    width: 200px;
+    height: auto;
+}
